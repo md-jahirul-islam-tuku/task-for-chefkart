@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "fName": "Berti",
+    "lName": "Coldbath",
+    "gender": "male",
+    "age": "30",
+    "status": "false"
+  },
+  {
+    "id": "2",
+    "fName": "Aigneis",
+    "lName": "De Ruel",
+    "gender": "male",
+    "age": "32",
+    "status": "true"
+  },
+  {
+    "id": "3",
+    "fName": "Angus",
+    "lName": "Gresser",
+    "gender": "male",
+    "age": "38",
+    "status": "true"
+  },
+  {
+    "id": "4",
+    "fName": "Amos",
+    "lName": "Redd",
+    "gender": "Female",
+    "age": "33",
+    "status": "false"
+  },
+  {
+    "id": "5",
+    "fName": "Donaugh",
+    "lName": "Nusche",
+    "gender": "male",
+    "age": "35",
+    "status": "false"
+  },
+  {
+    "id": "6",
+    "fName": "Carly",
+    "lName": "Boich",
+    "gender": "Female",
+    "age": "29",
+    "status": "true"
+  }
+]
